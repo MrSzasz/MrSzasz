@@ -5,7 +5,7 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in Buenos Aires, Argentina
-* 🖥️  See my portfolio at [my website](http://lugo-tomas-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [my website](https://tomaslugodev.com/)
 * ✉️  You can contact me at [tomasleandrolugo@gmail.com](mailto:tomasleandrolugo@gmail.com)
 * 🧠  I'm learning NestJs, Astro and Python
 
